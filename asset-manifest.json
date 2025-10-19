@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ayelson/static/css/main.bd627696.css",
+    "main.js": "/ayelson/static/js/main.e1fec18b.js",
+    "static/media/profile.jpg": "/ayelson/static/media/profile.9d8ce721d6bd0b9ae753.jpg",
+    "index.html": "/ayelson/index.html",
+    "main.bd627696.css.map": "/ayelson/static/css/main.bd627696.css.map",
+    "main.e1fec18b.js.map": "/ayelson/static/js/main.e1fec18b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd627696.css",
+    "static/js/main.e1fec18b.js"
+  ]
+}
