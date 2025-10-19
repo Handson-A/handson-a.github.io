@@ -20,10 +20,10 @@ export default function Contact() {
                     <aside className="contact-socials">
                         <h4>Connect</h4>
                         <div className="social-links">
-                            <a href="https://github.com/AyelgumHandson" target="_blank" rel="noreferrer" aria-label="GitHub">
+                            <a href="https://github.com/Handson-A" target="_blank" rel="noreferrer" aria-label="GitHub">
                                 <FaGithub /> <span>GitHub</span>
                             </a>
-                            <a href="https://linkedin.com/in/Ayelgum-Handson-A" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+                            <a href="https://linkedin.com/in/ayelson" target="_blank" rel="noreferrer" aria-label="LinkedIn">
                                 <FaLinkedin /> <span>LinkedIn</span>
                             </a>
                         </div>

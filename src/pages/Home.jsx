@@ -14,7 +14,7 @@ export default function Home() {
           </p>
 
           <div className="hero-actions">
-            <a href="#contact" className="btn btn-primary">Hire Me</a>
+            <a href="#contact" className="btn btn-primary">Let's Connect</a>
             <a href="/cv.pdf" className="btn btn-outline" download>View CV</a>
           </div>
         </div>
