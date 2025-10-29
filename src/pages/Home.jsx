@@ -13,9 +13,9 @@ export default function Home() {
             A versatile developer bridging the gap between development, robust security, and quality assurance to build resilient, reliable, and quality softwares.
           </p>
 
-          <div className="hero-actions">
+          <div classNaCV="hero-actions">
             <a href="#contact" className="btn btn-primary">Let's Connect</a>
-            <a href="/cv.pdf" className="btn btn-outline" download>View CV</a>
+            <a href="/CV.pdf" className="btn btn-outline" download>View CV</a>
           </div>
         </div>
 
